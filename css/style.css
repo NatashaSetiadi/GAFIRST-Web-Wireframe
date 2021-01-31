@@ -3554,7 +3554,6 @@ h6 {
 
   .footer-area {
     padding-top: 70px; }
-
   .footer-bottom {
     margin-top: 35px; } }
   .video-container {
@@ -3571,7 +3570,7 @@ h6 {
       height: 100vh;
       background: #1b1b1b;
       opacity: 0.7;
-}
+  }
 .video {
   object-fit: cover;
   width: 100vw;
